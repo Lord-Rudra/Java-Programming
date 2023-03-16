@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.BeforeTest;
 
-public class Baseclass_Salesforce {
+public class Baseclass_Salesforce { // BASE ClASS for the Salesforce_architect method and Salesforcetestcase.xml 
 	public EdgeDriver browser = new EdgeDriver();
 	@BeforeTest
 	
